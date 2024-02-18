@@ -20,7 +20,7 @@ This is a versatile and user-friendly Random Password Generator built with **Vit
 **1.  Clone the repository:**
 
 ```
-git clone https://github.com/your-username/random-password-generator.git
+git clone https://github.com/devrahuls/passwordGenerator
 ```
 ```
 cd random-password-generator
